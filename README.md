@@ -7,7 +7,7 @@
 - 🔁 Reconversion après 10 ans de management
 - 🧠 En formation continue sur #HTML, #CSS, #Javascript, #Angular, #Java, #Spring, #NodeJS, #SQL, #GitHub, #FullStackDevelopment
 
-[![Email](https://img.shields.io/badge/Email-romain.contant@hotmail.fr-red?style=flat&logo=gmail)](mailto:romain.contant@hotmail.fr)
+[![Email](https://img.shields.io/badge/Email-romain.contant@proton.me-red?style=flat&logo=gmail)](mailto:romain.contant@hotmail.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-contant30-181717?style=flat&logo=github)](https://github.com/contant30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romain--Contant-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/romain-contant-19a377173/)  
 
