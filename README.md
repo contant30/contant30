@@ -3,9 +3,9 @@
 
 ### 👨‍💻 À propos
 
-- 🎓 En formation Concepteur Développeur d'Applications (Titre RNCP Niveau 6, code 31678)
-- 🔁 Reconversion après 10 ans de management
-- 🧠 En formation continue sur #HTML, #CSS, #Javascript, #Angular, #Java, #Spring, #NodeJS, #SQL, #GitHub, #FullStackDevelopment
+- 🎓 En formation Concepteur Développeur d'Applications (Titre RNCP Niveau 6, code 31678).
+- 🔁 Reconversion après 10 ans de management.
+- 🧠 En formation continue sur #HTML, #CSS, #Javascript, #Angular, #Java, #Spring, #NodeJS, #SQL, #GitHub, #FullStackDevelopment.
 
 [![Email](https://img.shields.io/badge/Email-romain.contant@proton.me-red?style=flat&logo=gmail)](mailto:romain.contant@hotmail.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-contant30-181717?style=flat&logo=github)](https://github.com/contant30)
